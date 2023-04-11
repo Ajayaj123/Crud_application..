@@ -1,2 +1,2 @@
-# Crud_application
- Crud_application using php and mysql
+# CRUD-APPLICATION
+ Crud Application using Php & Mysql
